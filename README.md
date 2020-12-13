@@ -12,9 +12,9 @@ npm client-install
 
 Running the server
 ```
-npm run dev     # Express & React :3000 & :5000
-npm run server  # Express :5000
-npm run client  # React :3000
+npm run dev  -  Express & React :3000 & :5000
+npm run server  -  Express :5000
+npm run client  -  React :3000
 ```
 
 **Author**
