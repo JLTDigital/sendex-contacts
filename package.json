@@ -1,7 +1,7 @@
 {
-  "name": "contact_keeper",
+  "name": "Sendex",
   "version": "1.0.0",
-  "description": "Contact Manager App",
+  "description": "Sendex Contact App",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
